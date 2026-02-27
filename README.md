@@ -71,6 +71,18 @@ fake-news-detector/
 ```
 
 ---
+🏗 Overall Flow Diagram
+User Input
+↓
+Text Cleaning
+↓
+TF-IDF Conversion
+↓
+Logistic Regression Model
+↓
+Prediction (Real / Fake)
+↓
+Displayed on Website
 
 ## 🚀 How To Run
 
